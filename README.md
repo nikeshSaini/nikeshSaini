@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **BookReading (an app)**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web Development[MERN]**
 
 - 💬 Ask me about **C++, DSA and Competitive programming**
 
